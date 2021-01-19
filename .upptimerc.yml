@@ -25,7 +25,7 @@ status-website:
   name: status.nuked.me
 
 i18n:
-  footer: This page is [open source]($REPO).
+  footer:
 
 workflowSchedule:
   graphs: "*/5 * * * *"
