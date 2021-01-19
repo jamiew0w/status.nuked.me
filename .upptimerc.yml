@@ -25,7 +25,7 @@ status-website:
   name: status.nuked.me
 
 i18n:
-  footer:
+  footer: <a href="https://nuked.me" target="_blank">nuked.me</a>
 
 workflowSchedule:
   graphs: "*/5 * * * *"
