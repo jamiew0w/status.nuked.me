@@ -12,6 +12,8 @@ sites:
       - 404
   - name: push.nuked.me
     url: https://push.nuked.me
+  - name: ingest.nuked.me
+    url: https://ingest.nuked.me
 
 assignees:
   - jamiew0w
