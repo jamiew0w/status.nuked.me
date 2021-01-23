@@ -2,6 +2,9 @@
 owner: jamiew0w
 repo: status.nuked.me
 
+status-page:
+  theme: "dark"
+  
 # Add your sites here
 sites:
   - name: nuked.me
