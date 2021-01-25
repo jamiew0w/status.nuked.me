@@ -10,6 +10,8 @@ sites:
     url: https://api.nuked.me
     expectedStatusCodes:
       - 404
+  - name: comms.nuked.me
+    url: https://comms.nuked.me
   - name: push.nuked.me
     url: https://push.nuked.me
   - name: ingest.nuked.me
