@@ -21,6 +21,7 @@ assignees:
   - jamiew0w
 
 status-website:
+  publish: true
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.nuked.me
   # Uncomment the following line if you don't have a custom domain and add your repo name
