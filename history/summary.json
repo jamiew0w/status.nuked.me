@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/nuked.me",
     "slug": "nuked-me",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 685,
     "timeDay": 588,
     "timeWeek": 689,
     "timeMonth": 685,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2021-01-31": 0
+      "2021-01-31": 1
     }
   },
   {
