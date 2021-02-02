@@ -12,7 +12,7 @@
     "uptimeYear": "99.85%",
     "time": 596,
     "timeDay": 139,
-    "timeWeek": 541,
+    "timeWeek": 540,
     "timeMonth": 596,
     "timeYear": 596,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 702,
     "timeDay": 601,
-    "timeWeek": 701,
+    "timeWeek": 700,
     "timeMonth": 702,
     "timeYear": 702,
     "dailyMinutesDown": {}
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/push.nuked.me",
     "slug": "push-nuked-me",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 542,
     "timeDay": 524,
-    "timeWeek": 534,
+    "timeWeek": 532,
     "timeMonth": 542,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2021-02-02": 0
+      "2021-02-02": 11
     }
   },
   {
