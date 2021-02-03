@@ -16,6 +16,8 @@ sites:
     url: https://push.nuked.me
   - name: ingest.nuked.me
     url: https://ingest.nuked.me
+  - name: billing.nuked.me
+    url: https://billing.nuked.me
 
 assignees:
   - jamiew0w
