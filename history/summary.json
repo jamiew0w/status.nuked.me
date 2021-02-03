@@ -10,11 +10,11 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 528,
-    "timeDay": 148,
-    "timeWeek": 398,
-    "timeMonth": 528,
-    "timeYear": 528,
+    "time": 527,
+    "timeDay": 146,
+    "timeWeek": 397,
+    "timeMonth": 527,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2021-01-31": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 561,
-    "timeWeek": 670,
-    "timeMonth": 684,
-    "timeYear": 684,
+    "time": 683,
+    "timeDay": 558,
+    "timeWeek": 669,
+    "timeMonth": 683,
+    "timeYear": 683,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 613,
-    "timeDay": 579,
+    "timeDay": 577,
     "timeWeek": 605,
     "timeMonth": 613,
     "timeYear": 613,
@@ -89,6 +89,24 @@
     "timeWeek": 463,
     "timeMonth": 494,
     "timeYear": 494,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "billing.nuked.me",
+    "url": "https://billing.nuked.me",
+    "icon": "https://favicons.githubusercontent.com/billing.nuked.me",
+    "slug": "billing-nuked-me",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 490,
+    "timeDay": 490,
+    "timeWeek": 490,
+    "timeMonth": 490,
+    "timeYear": 490,
     "dailyMinutesDown": {}
   }
 ]
