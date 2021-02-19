@@ -45,19 +45,17 @@
     "icon": "https://favicons.githubusercontent.com/comms.nuked.me",
     "slug": "comms-nuked-me",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 561,
     "timeDay": 507,
     "timeWeek": 520,
     "timeMonth": 561,
     "timeYear": 561,
-    "dailyMinutesDown": {
-      "2021-02-19": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "push.nuked.me",
@@ -65,19 +63,17 @@
     "icon": "https://favicons.githubusercontent.com/push.nuked.me",
     "slug": "push-nuked-me",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 462,
     "timeDay": 406,
     "timeWeek": 407,
     "timeMonth": 461,
     "timeYear": 462,
-    "dailyMinutesDown": {
-      "2021-02-19": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ingest.nuked.me",
@@ -103,18 +99,16 @@
     "icon": "https://favicons.githubusercontent.com/billing.nuked.me",
     "slug": "billing-nuked-me",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 723,
     "timeDay": 655,
-    "timeWeek": 711,
+    "timeWeek": 712,
     "timeMonth": 723,
     "timeYear": 723,
-    "dailyMinutesDown": {
-      "2021-02-19": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
