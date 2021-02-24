@@ -1,7 +1,7 @@
 url: https://billing.nuked.me
-status: down
-code: 502
-responseTime: 18765
-lastUpdated: 2021-02-24T01:21:22.414Z
+status: up
+code: 200
+responseTime: 2667
+lastUpdated: 2021-02-24T02:00:38.260Z
 startTime: Wed Feb 03 2021 20:22:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
