@@ -26,17 +26,17 @@
     "slug": "api-nuked-me",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 587,
     "timeDay": 787,
-    "timeWeek": 542,
+    "timeWeek": 541,
     "timeMonth": 579,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2021-02-24": 1,
+      "2021-02-24": 3,
       "2021-02-19": 15
     }
   },
@@ -45,19 +45,19 @@
     "url": "https://comms.nuked.me",
     "icon": "https://favicons.githubusercontent.com/comms.nuked.me",
     "slug": "comms-nuked-me",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "91.83%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "91.52%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 563,
     "timeDay": 852,
     "timeWeek": 558,
     "timeMonth": 563,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2021-02-24": 82,
+      "2021-02-24": 86,
       "2021-02-23": 36
     }
   },
@@ -103,18 +103,18 @@
     "icon": "https://favicons.githubusercontent.com/billing.nuked.me",
     "slug": "billing-nuked-me",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 745,
     "timeDay": 1396,
     "timeWeek": 774,
     "timeMonth": 745,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2021-02-24": 1
+      "2021-02-24": 3
     }
   }
 ]
