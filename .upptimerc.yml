@@ -12,6 +12,10 @@ sites:
       - 404
   - name: comms.nuked.me
     url: https://comms.nuked.me
+  - name: apt.nuked.me
+    url: https://apt.nuked.me
+  - name: archive.nuked.me
+    url: https://archive.nuked.me
   - name: push.nuked.me
     url: https://push.nuked.me
   - name: ingest.nuked.me
