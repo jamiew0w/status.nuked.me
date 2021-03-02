@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 145,
+    "timeDay": 144,
     "timeWeek": 145,
     "timeMonth": 141,
     "timeYear": 233,
@@ -24,18 +24,16 @@
     "slug": "api-nuked-me",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 576,
-    "timeDay": 501,
+    "timeDay": 509,
     "timeWeek": 533,
     "timeMonth": 542,
     "timeYear": 576,
-    "dailyMinutesDown": {
-      "2021-03-02": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "comms.nuked.me",
@@ -49,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 561,
-    "timeDay": 508,
+    "timeDay": 509,
     "timeWeek": 562,
     "timeMonth": 550,
     "timeYear": 561,
@@ -123,7 +121,7 @@
     "time": 433,
     "timeDay": 382,
     "timeWeek": 395,
-    "timeMonth": 414,
+    "timeMonth": 415,
     "timeYear": 433,
     "dailyMinutesDown": {}
   },
@@ -134,17 +132,15 @@
     "slug": "billing-nuked-me",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 875,
-    "timeWeek": 845,
-    "timeMonth": 755,
-    "timeYear": 755,
-    "dailyMinutesDown": {
-      "2021-03-02": 1
-    }
+    "time": 764,
+    "timeDay": 1080,
+    "timeWeek": 881,
+    "timeMonth": 764,
+    "timeYear": 764,
+    "dailyMinutesDown": {}
   }
 ]
