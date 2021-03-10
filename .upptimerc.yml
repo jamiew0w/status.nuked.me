@@ -4,23 +4,23 @@ repo: status.nuked.me
   
 # Add your sites here
 sites:
-  - name: nuked.me
+  - name: website // nuked.me
     url: https://nuked.me
-  - name: api.nuked.me
+  - name: API
     url: https://api.nuked.me
     expectedStatusCodes:
       - 404
-  - name: comms.nuked.me
+  - name: mattermost // comms.nuked.me
     url: https://comms.nuked.me
-  - name: apt.nuked.me
+  - name: apt mirrors // apt.nuked.me
     url: https://apt.nuked.me
-  - name: archive.nuked.me
+  - name: archived files // archive.nuked.me
     url: https://archive.nuked.me
-  - name: push.nuked.me
+  - name: push notifications
     url: https://push.nuked.me
-  - name: ingest.nuked.me
+  - name: syslog ingest server
     url: https://ingest.nuked.me
-  - name: billing.nuked.me
+  - name: billing (beta)
     url: https://billing.nuked.me
 
 assignees:
