@@ -1,7 +1,7 @@
 url: https://api.nuked.me
-status: up
-code: 404
-responseTime: 468
-lastUpdated: 2021-03-13T03:44:28.042Z
+status: down
+code: 502
+responseTime: 432
+lastUpdated: 2021-03-13T04:38:25.920Z
 startTime: Wed Mar 10 2021 13:47:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
